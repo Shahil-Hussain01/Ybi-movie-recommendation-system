@@ -16,9 +16,8 @@ This movie recommendation system is designed to provide personalized movie sugge
 ## Installation
 
 1. Clone the repository:
-
    ```shell
-   git clone https://github.com/rajeshwaran-1/YBI.git
+   git clone https://github.com/Shahil-Hussain01/Ybi-movie-recommendation-system.git
    ```
 
 2. Install the required libraries:
